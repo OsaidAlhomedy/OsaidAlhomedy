@@ -26,6 +26,8 @@ Osaid Alhomedy, a full stack web development student 💻 and a mechanical engin
 
 ### ⚙️ &nbsp; Git Analytics
 
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=OsaidAlhomedy.OsaidAlhomedy)
+
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=OsaidAlhomedy&theme=dark&show_icons=true" width="60%"/></p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsaidAlhomedy&theme=dark&layout=compact" width="60%"/></p>
 
