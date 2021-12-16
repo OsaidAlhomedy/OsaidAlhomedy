@@ -4,9 +4,9 @@ Osaid Alhomedy, a full stack web development student 💻 and a mechanical engin
 
 <!-- TODO: Add the professional pitch video link here -->
 
-- :seedling: I’m currently enrolled in Code fellows' Advanced Software Development intensive program.
-- :computer: Most used line of code `git add .`.
-- 🤔 I will be looking for an internship after graduation.
+- :seedling: Code Fellows Advanced Software Development Intensive Program Graduate.
+- :computer: Most used combination of lines of code `git add ; git commit ; git push`.
+- 🤔 Looking for an internship or an entry level job opportunity
 - 🕹 Hit me up if you are up for an Apex Legends match
 - :speech_balloon: Ask me about anything.
 
