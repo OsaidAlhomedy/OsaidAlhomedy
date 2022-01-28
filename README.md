@@ -6,9 +6,10 @@ Osaid Alhomedy, a full stack web developer 💻 & Java is my playground ☕
 
 - :seedling: Code Fellows Advanced Software Development Intensive Program Graduate.
 - :computer: Most used combination of lines of code `git add ; git commit ; git push`.
+- 🤓 Currently working as a Teacher Assistant at ASAC
 - 🤔 Looking for an internship or an entry level job opportunity
 - 🕹 Hit me up if you are up for an Apex Legends match
-- :speech_balloon: Ask me about anything.
+- :speech_balloon: Ask me anything.
 
 🤝 &nbsp; Connect with Me
 
