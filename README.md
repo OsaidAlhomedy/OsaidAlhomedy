@@ -12,7 +12,7 @@ Osaid Alhomedy, a full stack web developer 💻 & Java is my playground ☕
 
 🤝 &nbsp; Connect with Me
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/osaid-alhomedy-920920920/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/osaid-alhomedy/)
 
 ---
 
